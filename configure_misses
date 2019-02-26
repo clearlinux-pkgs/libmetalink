@@ -1,0 +1,6 @@
+Configure miss: time64.h usability
+Configure miss: time64.h presence
+Configure miss: time64.h
+Configure miss: timegm64
+Configure miss: _mkgmtime
+Configure miss: mkgmtime
