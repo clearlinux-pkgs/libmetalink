@@ -4,7 +4,7 @@
 #
 Name     : libmetalink
 Version  : 0.1.3
-Release  : 1
+Release  : 2
 URL      : https://launchpad.net/libmetalink/trunk/libmetalink-0.1.3/+download/libmetalink-0.1.3.tar.xz
 Source0  : https://launchpad.net/libmetalink/trunk/libmetalink-0.1.3/+download/libmetalink-0.1.3.tar.xz
 Summary  : Metalink library
